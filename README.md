@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WeversonCelio
 - 👀 I’m interested in backend and DevOps
-- 🌱 I’m currently learning Java, Javascript and Script
-- 💞️ I’m looking to collaborate "open"  
+- 🌱 I’m currently learning Java, Javascript and Script  
 - 📫 How to reach me .https://www.linkedin.com/in/weversoncelio/
 
 <!---
